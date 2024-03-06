@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.div-a {
+    background-color: #F5DEB3;
+    width: 500px;
+    height: 500px;
+}
+
+.div-b {
+    background-color: #90EE90;
+    width: 50%;
+    height: 50%;
+}
+
+.div-b p {
+    color: white;
+    background-color: #FF69B4;
+    font-size: 25px;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+
+.div-d {
+    background-color: #ADD8E6;
+    width: 50%;
+    height: 50vh;
+}
+
+.div-e {
+    background-color: #FF6347;
+    width: 75vw;
+    height: 50%;
+}
